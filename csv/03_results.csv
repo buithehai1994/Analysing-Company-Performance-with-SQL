@@ -1,0 +1,10 @@
+"employee_full_name","employee_job_title","age_at_hire","manager_full_name","manager_job_title"
+Anne Dodsworth,Sales Representative,28.0,Steven Buchanan,Sales Manager
+Janet Leverling,Sales Representative,28.0,Andrew Fuller,"Vice President, Sales"
+Michael Suyama,Sales Representative,30.0,Steven Buchanan,Sales Manager
+Robert King,Sales Representative,33.0,Steven Buchanan,Sales Manager
+Laura Callahan,Inside Sales Coordinator,36.0,Andrew Fuller,"Vice President, Sales"
+Steven Buchanan,Sales Manager,38.0,Andrew Fuller,"Vice President, Sales"
+Andrew Fuller,"Vice President, Sales",40.0, ,
+Nancy Davolio,Sales Representative,43.0,Andrew Fuller,"Vice President, Sales"
+Margaret Peacock,Sales Representative,55.0,Andrew Fuller,"Vice President, Sales"

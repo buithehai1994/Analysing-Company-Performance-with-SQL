@@ -1,0 +1,46 @@
+"category_name","country","total_units_in_stock","total_units_on_order","total_reorder_level","supplier_region"
+Beverages,Australia,15,10,30,Asia-Pacific
+Beverages,Brazil,20,0,0,America
+Beverages,Finland,57,0,20,Europe
+Beverages,France,86,0,20,Europe
+Beverages,Germany,125,0,25,Europe
+Beverages,Singapore,17,10,25,Asia-Pacific
+Beverages,UK,56,40,35,Europe
+Beverages,USA,183,0,40,America
+Condiments,Australia,24,0,5,Asia-Pacific
+Condiments,Canada,113,0,25,America
+Condiments,Germany,32,0,15,Europe
+Condiments,Japan,39,0,5,Asia-Pacific
+Condiments,Singapore,27,0,15,Asia-Pacific
+Condiments,UK,13,70,25,Europe
+Condiments,USA,259,100,45,America
+Confections,Australia,29,0,10,Asia-Pacific
+Confections,Canada,17,0,0,America
+Confections,Finland,75,60,45,Europe
+Confections,Germany,140,0,60,Europe
+Confections,Netherlands,51,70,25,Europe
+Confections,UK,74,50,25,Europe
+Dairy Products,France,98,0,0,Europe
+Dairy Products,Italy,23,110,45,Europe
+Dairy Products,Norway,164,0,35,Europe
+Dairy Products,Spain,108,30,30,Europe
+Grains/Cereals,Australia,38,0,25,Asia-Pacific
+Grains/Cereals,Germany,22,80,30,Europe
+Grains/Cereals,Italy,57,10,50,Europe
+Grains/Cereals,Singapore,26,0,0,Asia-Pacific
+Grains/Cereals,Sweden,165,0,50,Europe
+Meat/Poultry,Australia,0,0,0,Asia-Pacific
+Meat/Poultry,Canada,136,0,30,America
+Meat/Poultry,Germany,0,0,0,Europe
+Meat/Poultry,Japan,29,0,0,Asia-Pacific
+Produce,Australia,20,0,10,Asia-Pacific
+Produce,Germany,26,0,0,Europe
+Produce,Japan,39,20,5,Asia-Pacific
+Produce,USA,15,0,10,America
+Seafood,Australia,42,0,0,Asia-Pacific
+Seafood,Denmark,100,70,15,Europe
+Seafood,France,62,0,20,Europe
+Seafood,Germany,10,0,15,Europe
+Seafood,Japan,55,0,5,Asia-Pacific
+Seafood,Sweden,224,50,50,Europe
+Seafood,USA,208,0,40,America
