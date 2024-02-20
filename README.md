@@ -2,7 +2,7 @@
 
 ## Description
 
-This project involves analyzing the performance of Northwind Traders, a fictitious company dealing in specialty foods, using SQL queries on the Northwind database.
+This project involves analyzing the performance of Northwind Traders, a fictitious company importing and exporting specialty foods from around the world, using SQL queries on the Northwind database.
 
 ## Requirements
 
